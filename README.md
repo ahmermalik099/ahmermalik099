@@ -23,10 +23,10 @@ My expertise in Flutter, C++, Python, C#, .NET, Java, mobile development, and HT
 <hr/>
 
 ## Connect with me
-[![website ](./images/linkedin.jpg )](www.linkedin.com/in/ahmer-malik-478836256)
-[![website](./images/instagram.jpg)](https://www.instagram.com/ahmer._.malik/)
-
+<a href="www.linkedin.com/in/ahmer-malik-478836256"> <img src="./images/linkedin.jpg" width=40px height= 40px></a>
+<a href="www.linkedin.com/in/ahmer-malik-478836256"> <img src="./images/instagram.jpg" width=40px height= 40px></a>
 <hr/>
+
 <br/>
 
 # Highlights
