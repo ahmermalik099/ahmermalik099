@@ -34,7 +34,7 @@ Below are the Projects that I have made from scratch
 
 # Flutter <img width ='20' height='20' src="https://static-00.iconduck.com/assets.00/flutter-plain-icon-1655x2048-tm6fsmjb.png" />
 
-- [Zong HRM Application](Private Project) [Provider, White Label Application, WSO2 Authentication, RestApi's, Dynamic color scheme, content and menu for each company, Mercurial Minds Project]
+- Zong HRM Application(Private Project) [Provider, White Label Application, WSO2 Authentication, RestApi's, Dynamic color scheme, content and menu for each company, Mercurial Minds Project]
 
 - [Habit Tracker](https://github.com/ahmermalik099/habit_tracker_app) [Provider, Backend: DotNet Core] [Habit Tracker Backend](https://github.com/ahmermalik099/HabitTrackerBackend)
 
